@@ -1,4 +1,4 @@
-# Daily Data Structures and Algorithms (DSA) Practice
+# Data Structures and Algorithms (DSA)
 
 Welcome to the repository for my daily DSA practice following Love Babbar's DSA sheet. This repository aims to keep track of my progress and solutions for 5 DSA questions daily, focusing on all topics of Data Structures and Algorithms (DSA).
 
