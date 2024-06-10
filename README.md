@@ -30,10 +30,15 @@ This repository contains solutions to various DSA problems listed in Love Babbar
 | 3    | Strings                    | 5 Questions  |
 | 4    | Searching, Sorting         | 5 Questions  |
 
+## Profile Link
+- GeeksforGeeks https://www.geeksforgeeks.org/user/rohitkumar01/
+- LeetCode      https://leetcode.com/u/rohitkumarvatsh01/
+- HackerRank    https://www.hackerrank.com/profile/rohitkumarvatsh1
+
 ## Resources
 - Love Babbar DSA Sheet
 - GeeksforGeeks
 - LeetCode
 - HackerRank
 - Javatpoint
-- Youtube
+- YouTube
