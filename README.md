@@ -16,7 +16,7 @@ This repository contains solutions to various DSA problems listed in Love Babbar
 
 ## Goals
 
-- **Daily Practice:** Solve 5 DSA questions every day.
+- **Daily Practice:** Solve 5 DSA questions every day. 
 - **Deep Understanding:** Grasp both fundamental and advanced concepts in each topic.
 - **Documentation:** Track and document the progress for each problem solved.
 
