@@ -8,7 +8,7 @@ This repository contains solutions to various DSA problems listed in Love Babbar
 
 - Arrays
 - Strings 
-- Searching 
+- Searching
 - Sorting
 - Stack
 - Queue
