@@ -7,7 +7,7 @@ Welcome to the repository for my daily DSA practice following Love Babbar's DSA 
 This repository contains solutions to various DSA problems listed in Love Babbar's DSA sheet. The target for the month of June includes solving problems related to:
 
 - Arrays
-- Strings
+- Strings 
 - Searching 
 - Sorting
 - Stack
