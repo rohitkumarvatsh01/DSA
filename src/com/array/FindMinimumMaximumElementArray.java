@@ -1,8 +1,8 @@
 /*Input:
-N = 6
-A[] = {3, 2, 1, 56, 10000, 167}
-Output: 1 10000
-Explanation: minimum and maximum elements of array are 1 and 10000.
+	N = 6
+	A[] = {3, 2, 1, 56, 10000, 167}
+	Output: 1 10000
+	Explanation: minimum and maximum elements of array are 1 and 10000.
 */
 package com.array;
 
