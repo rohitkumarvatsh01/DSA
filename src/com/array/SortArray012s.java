@@ -1,3 +1,9 @@
+/*
+    Input: N=6
+    arr[]={1,2,0,2,1,0}
+
+    Output: {0,0,1,1,2,2}
+*/
 package com.array;
 
 import java.util.Scanner;
