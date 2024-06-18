@@ -57,5 +57,7 @@ public class PalindromeString {
 		String str=sc.nextLine();
 		
 		System.out.println(palindromeString(str));
+		
+		sc.close();
 	}
 }

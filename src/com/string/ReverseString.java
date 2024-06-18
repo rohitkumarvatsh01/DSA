@@ -47,5 +47,7 @@ public class ReverseString {
 		String str=sc.nextLine();
 		
 		System.out.println(reverseString(str));
+		
+		sc.close();
 	}
 }

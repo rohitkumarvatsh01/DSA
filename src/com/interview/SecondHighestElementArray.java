@@ -34,5 +34,7 @@ public class SecondHighestElementArray {
 		}
 		
 		System.out.println(secondElement(arr));
+		
+		sc.close();
 	}
 }

@@ -42,6 +42,8 @@ public class FindFirstSecondThirdHighestElementArray {
 		}
 		
 		maxElement(arr);
+		
+		sc.close();
 	}
 }
 
