@@ -1,14 +1,17 @@
 package com.interview;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class FindDuplicateElementArray {
 	
-	public static void duplicateArray(int[] arr) {
+	public static void duplicateElement(int[] arr) {
+		
+		Arrays.sort(arr);
+		int check=Integer.MIN_VALUE;
 		for(int i=0; i<arr.length-1; i++) {
-			for(int j=i+1; j<arr.length; j++) {
-				if(arr[i]==arr[j]) {
-					System.out.println(arr[i]);
-				}
+			if(arr[i]==arr[i+1] && arr[i]!=check) {
+				check=arr[i];
+				System.out.println(arr[i]);
 			}
 		}
 	}
@@ -25,6 +28,6 @@ public class FindDuplicateElementArray {
 			arr[i]=sc.nextInt();
 		}
 		
-		duplicateArray(arr);
+		duplicateElement(arr);
 	}
 }
