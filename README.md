@@ -1,10 +1,10 @@
 # Data Structures and Algorithms (DSA) 
 
-Welcome to the repository for my daily DSA practice following Love Babbar's DSA sheet. This repository aims to keep track of my progress and solutions for 5 DSA questions daily, focusing on all topics of Data Structures and Algorithms (DSA).
+Welcome to the repository for my daily DSA practice. This repository aims to keep track of my progress and solutions for 5 DSA questions daily, focusing on all topics of Data Structures and Algorithms (DSA).
 
 ## Overview
 
-This repository contains solutions to various DSA problems listed in Love Babbar's DSA sheet. The target for the month of June includes solving problems related to:
+This repository contains solutions to various DSA problems. The target for the month of June includes solving problems related to:
 
 - Arrays
 - Strings 
@@ -36,7 +36,6 @@ This repository contains solutions to various DSA problems listed in Love Babbar
 - HackerRank    https://www.hackerrank.com/profile/rohitkumarvatsh1
 
 ## Resources
-- Love Babbar DSA Sheet
 - GeeksforGeeks
 - LeetCode
 - HackerRank
