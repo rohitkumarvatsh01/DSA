@@ -7,7 +7,7 @@ import java.util.Set;
 
 public class ArraySubsetAnotherArray {
     
-    //Approach 1 - Corrected Approach - Time Complexity: O(n+m)
+    //Approach 1 - Corrected Approach - Time Complexity: O(n+m) 
     public static String arraySubsetAnotherArray1(int[] arr1, int[] arr2) {
         for (int j : arr2) {
             boolean found = false;
