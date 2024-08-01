@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (DSA)
+# Data Structures and Algorithms (DSA) 
 
 Welcome to the repository for my daily DSA practice. This repository aims to keep track of my progress and solutions for 5 DSA questions daily, focusing on all topics of Data Structures and Algorithms (DSA).
 
