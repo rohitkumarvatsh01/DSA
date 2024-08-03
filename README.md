@@ -22,7 +22,7 @@ This repository contains solutions to various DSA problems. The target for the m
 
 ## Schedule
 
-### June 2024
+### August 2024
 
 | Week | Topics                     | Daily Target |
 |------|----------------------------|--------------|
