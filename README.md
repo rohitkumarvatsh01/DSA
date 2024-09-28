@@ -12,7 +12,7 @@ This repository contains solutions to various DSA problems. The target for the m
 - Sorting
 - Stack
 - Queue
-- Linked List 
+- Linked List
 
 ## Goals
 
