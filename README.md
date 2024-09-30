@@ -10,7 +10,7 @@ This repository contains solutions to various DSA problems. The target for the m
 - Strings
 - Searching
 - Sorting
-- Stack
+- Stack 
 - Queue 
 - Linked List
 
