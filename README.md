@@ -11,7 +11,7 @@ This repository contains solutions to various DSA problems. The target for the m
 - Searching
 - Sorting
 - Stack
-- Queue
+- Queue 
 - Linked List
 
 ## Goals
