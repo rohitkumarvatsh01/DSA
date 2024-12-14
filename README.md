@@ -7,7 +7,7 @@ Welcome to the repository for my daily DSA practice. This repository aims to kee
 This repository contains solutions to various DSA problems. The target for the month of June includes solving problems related to:
 
 - Arrays 
-- Strings
+- Strings 
 - Searching
 - Sorting 
 - Stack 
